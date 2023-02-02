@@ -432,7 +432,7 @@ http://45.160.15.130:2909/play/020
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2 HD
 http://45.160.15.130:2909/play/021
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Disney HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Disney HD
 http://45.160.15.130:2909/play/010
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Paramount HD
