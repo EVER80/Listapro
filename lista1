@@ -252,27 +252,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMpNvh8V/retrochannel.jpg" group-title="MUSICA", THE RETRO CHANNEL
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/00d1d85f999671c8ca6e9f5f5ff26b3b.png" group-title="CINE", GOLDEN PREMIER
-http://iptvglobal.site:25461/anthony/anthony/87048
-
-#EXTINF:-1 tvg-logo="http://iptvglobal.site:25461/images/5edf029d689182d9f96e21e800f3404e.png" group-title="CINE", Golden Plus
-http://iptvglobal.site:25461/anthony/anthony/87215
-
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/a42a5e759bd8e7924a831dbd00746685.png" group-title="INFANTILES", Disney Movies
-http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/230605
-
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/7334fa93b1ca52c9c0d26ee59cada4b4.png" group-title="CINE", SONY CINE
-http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/271806
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Clover HD
-http://8.242.187.233:5800/play/a0gj/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/1857602f9a39e89e788271d7598830a1.png" group-title="CINE", Golden Edge
-http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/130
-
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/4239155985365aa76dd1affd80561dd2.png" group-title="CINE", Golden
-http://51.222.43.170:8001/ultr@prem21/XqeaDgqDaA/263340
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MX Family HD
 http://170.79.235.29:8000/play/120
 
@@ -447,9 +426,6 @@ http://45.176.193.20:7837/play/a02t
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ub.png" group-title="MUSICA", Concert Channel
 http://190.83.119.67:8000/play/a0ub/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0od.png" group-title="CINE", Golden Premiere 2 HD
-http://190.83.119.67:8000/play/a0od/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", FUTBOL PARAGUAYO
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/211228
 
@@ -477,13 +453,42 @@ http://aroa2020.com:80/TegustaTv/tSwFYTiCwR/259718
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uaj3ocO.png" group-title="NACIONALES", GenTV
 http://aroa2020.com:80/TegustaTv/tSwFYTiCwR/1372849
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s6f17yY.png" group-title="DEPORTES", Directv Sports + HD
-http://aroa2020.com:80/TegustaTv/tSwFYTiCwR/1371089
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/51JJK6X.png" group-title="DEPORTES", Directv Sports 1 HD
-http://aroa2020.com:80/TegustaTv/tSwFYTiCwR/1371090
-
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/612.png" group-title="DEPORTES", DIRECTV SPORTS 2
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234327
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIERE
+http://45.176.193.20:7837/play/a06h
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Edge HD
+http://45.176.193.20:7837/play/a02y
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Plus HD
+http://45.176.193.20:7837/play/a02s
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Multipremier
+http://45.176.193.20:7837/play/a030
+
+#EXTINF:-1 tvg-logo="https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png" group-title="CINE", TV PRIME Movie
+https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png" group-title="INFANTILES", Magic Kids
+https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png" group-title="CINE", Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", SERIES CLUB
+http://181.176.148.142:8000/play/a02y
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sports
+http://200.41.79.165:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sports+ HD
+http://200.41.79.165:8000/play/a0js/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1613.png" group-title="DEPORTES", DIRECTV SPORTS +
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234329
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="TV DIRECT SPORTS", DIRECTV SPORTS
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
 
 
