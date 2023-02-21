@@ -453,8 +453,6 @@ http://aroa2020.com:80/TegustaTv/tSwFYTiCwR/259718
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uaj3ocO.png" group-title="NACIONALES", GenTV
 http://aroa2020.com:80/TegustaTv/tSwFYTiCwR/1372849
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/612.png" group-title="DEPORTES", DIRECTV SPORTS 2
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234327
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIERE
 http://45.176.193.20:7837/play/a06h
 
@@ -464,8 +462,8 @@ http://45.176.193.20:7837/play/a02y
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Plus HD
 http://45.176.193.20:7837/play/a02s
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Multipremier
-http://45.176.193.20:7837/play/a030
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN
+http://flash.shortgod.com/escritor_21/tv6.php?id=3236
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png" group-title="CINE", TV PRIME Movie
 https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
@@ -488,7 +486,44 @@ http://200.41.79.165:8000/play/a0js/index.m3u8
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1613.png" group-title="DEPORTES", DIRECTV SPORTS +
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234329
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="TV DIRECT SPORTS", DIRECTV SPORTS
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="DEPORTES", DIRECTV SPORTS
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DIRECTV SPORTS 2
+http://flash.shortgod.com/escritor_21/tv7.php?id=1048
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", Universal Crime
+http://flash.shortgod.com/escritor_21/tv8.php?id=98
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", Universal Reality
+http://flash.shortgod.com/escritor_21/tv8.php?id=101
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", Universal Premier
+http://flash.shortgod.com/escritor_21/tv8.php?id=103
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", Universal Channel
+http://flash.shortgod.com/escritor_21/tv8.php?id=175
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", UNIVERSAL COMEDY
+http://flash.shortgod.com/escritor_21/tv8.php?id=754
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", UNIVERSAL CINEMA
+http://flash.shortgod.com/escritor_21/tv8.php?id=3144
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", EL CHAVO
+http://flash.shortgod.com/escritor_21/tv6.php?id=18576
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Cine
+http://flash.shortgod.com/escritor_21/tv5.php?id=14690
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Sailor Moon
+http://flash.shortgod.com/escritor_21/tv5.php?id=2395
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Multipremier
+http://flash.shortgod.com/escritor_21/tv2.php?id=81&token=ShortGod&file=.m3u8
+
+
+
+
 
 
