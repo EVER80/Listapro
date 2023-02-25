@@ -426,9 +426,6 @@ http://45.176.193.20:7837/play/a02t
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ub.png" group-title="MUSICA", Concert Channel
 http://190.83.119.67:8000/play/a0ub/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", FUTBOL PARAGUAYO
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/211228
-
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES", TNT SPORTS ARG HD
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/132285
 
@@ -462,9 +459,6 @@ http://45.176.193.20:7837/play/a02y
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Plus HD
 http://45.176.193.20:7837/play/a02s
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN
-http://flash.shortgod.com/escritor_21/tv6.php?id=3236
-
 #EXTINF:-1 tvg-logo="https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png" group-title="CINE", TV PRIME Movie
 https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
 
@@ -489,41 +483,11 @@ http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234329
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="DEPORTES", DIRECTV SPORTS
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DIRECTV SPORTS 2
-http://flash.shortgod.com/escritor_21/tv7.php?id=1048
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS", FUTBOL PY 1
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/240961
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", Universal Crime
-http://flash.shortgod.com/escritor_21/tv8.php?id=98
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", Universal Reality
-http://flash.shortgod.com/escritor_21/tv8.php?id=101
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", Universal Premier
-http://flash.shortgod.com/escritor_21/tv8.php?id=103
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", Universal Channel
-http://flash.shortgod.com/escritor_21/tv8.php?id=175
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", UNIVERSAL COMEDY
-http://flash.shortgod.com/escritor_21/tv8.php?id=754
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", UNIVERSAL CINEMA
-http://flash.shortgod.com/escritor_21/tv8.php?id=3144
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", EL CHAVO
-http://flash.shortgod.com/escritor_21/tv6.php?id=18576
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony Cine
-http://flash.shortgod.com/escritor_21/tv5.php?id=14690
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Sailor Moon
-http://flash.shortgod.com/escritor_21/tv5.php?id=2395
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Multipremier
-http://flash.shortgod.com/escritor_21/tv2.php?id=81&token=ShortGod&file=.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="http://streamingprotv.com:8000/images/67317d6dcc4cb778aeb9219565f5456b.png" group-title="EVENTOS", FUTBOL PY 2
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/209264
 
 
 
