@@ -423,9 +423,6 @@ http://45.160.15.130:2909/play/209
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", AMC HD
 http://45.176.193.20:7837/play/a02t
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0ub.png" group-title="MUSICA", Concert Channel
-http://190.83.119.67:8000/play/a0ub/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES", TNT SPORTS ARG HD
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/132285
 
@@ -446,9 +443,6 @@ http://aroa2020.com:80/TegustaTv/tSwFYTiCwR/259714
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 4 HD
 http://aroa2020.com:80/TegustaTv/tSwFYTiCwR/259718
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uaj3ocO.png" group-title="NACIONALES", GenTV
-http://aroa2020.com:80/TegustaTv/tSwFYTiCwR/1372849
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png" group-title="CINE", TV PRIME Movie
 https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
@@ -474,12 +468,6 @@ http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234329
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="DEPORTES", DIRECTV SPORTS
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
 
-#EXTINF:-1 tvg-logo="http://swedtv.com/logo/Sr-cine-3.png" group-title="CINE", Cine Acción HD
-http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/85598.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.com/logo/Sr-cine-3.png" group-title="CINE", Cine Robots HD
-http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/75315.ts
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cine Cristiano HD
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/160622.ts
 
@@ -489,61 +477,58 @@ http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/36596.ts
 #EXTINF:-1 tvg-logo="http://titanicos.net:8080/images/999be455c65517ed2c6afe8183ef1e42.png" group-title="CINE", Cinemax HD
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/15128.ts
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="LAT - CINE", Golden
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="CINE", Golden
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1797.ts
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="LAT - CINE", Golden Plus HD
-http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1867.ts
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="LAT - CINE", Golden Edge
+#EXTINF:-1 tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="CINE", Golden Edge
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24126.ts
 
-#EXTINF:-1 tvg-logo="http://titanicos.net:8080/images/74219e77187d8a857d138208f97567c3.png" group-title="LAT - CINE", Golden Premier HD
+#EXTINF:-1 tvg-logo="http://titanicos.net:8080/images/74219e77187d8a857d138208f97567c3.png" group-title="CINE", Golden Premier HD
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/1859.ts
 
-#EXTINF:-1 tvg-logo="http://titanicos.net:8080/images/f476c5c8e0ff5fe4bf62135fe236bf27.png" group-title="LAT - CINE", Universal Cinema HD
+#EXTINF:-1 tvg-logo="http://titanicos.net:8080/images/f476c5c8e0ff5fe4bf62135fe236bf27.png" group-title="CINE", Universal Cinema HD
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/239632.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE", Cinema 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE 24", Cinema 1
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24958.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE", Cinema 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE 24", Cinema 2
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24959.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE", Cinema 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE 24", Cinema 3
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24960.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE", Cinema 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE 24", Cinema 4
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24961.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE", Cinema 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE 24", Cinema 5
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24962.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE", Cinema 6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE 24", Cinema 6
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24963.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE", Cinema 7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE 24", Cinema 7
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24964.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE", Cinema 8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE 24", Cinema 8
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24965.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE", Cinema 9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE 24", Cinema 9
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24966.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE", Cinema 10
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE 24", Cinema 10
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24967.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE", Cinema 11
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE 24", Cinema 11
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24968.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE", Cinema 12
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE 24", Cinema 12
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24969.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE", Cinema 13
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE 24", Cinema 13
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24970.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE", Cinema 14
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="CINE 24", Cinema 14
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24971.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.net:8080/images/dd9218fd8294a7dcc2f40a15eccfff7e.png" group-title="DEPORTES", Directv Sports 2
@@ -585,6 +570,13 @@ http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24888.ts
 #EXTINF:-1 tvg-logo="https://www.diariolibre.com/binrepository/700x350/115c0/546d350/none/10904/XGIF/caso-cerrado_12421098_20191016124436.jpg" group-title="SERIES", Caso Cerrado
 http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/34214.ts
 
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/v9wdRHqahLmuVzap7"group-title="INFANTILES", Dios TV Kids
-https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://titanicos.net:8080/images/6923ef2566c6deb9571c89aee3ef3aa5.png" group-title="CINE", Golden Plus
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/24127.ts
+
+#EXTINF:-1 tvg-logo="https://www.guioteca.com/los-80/files/2016/04/Los-Magnificos.jpg" group-title="SERIES", Los Magnificos
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/26597.ts
+
+#EXTINF:-1 tvg-logo="http://viperos.net:8080/images/a06cf2fd2f79859f7c74a07046e98cab.png" group-title="INFANTILES", Gato Con Botas
+http://sintoniaideal.com:25461/live/urzoliniResexcha397D/ApKK8he8dVRN/272423.ts
+
 
