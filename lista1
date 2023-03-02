@@ -468,3 +468,91 @@ http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234329
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="DEPORTES", DIRECTV SPORTS
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Plus HD
+http://45.176.193.20:7837/play/a02s
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN
+http://45.176.193.20:7837/play/a06i
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIERE
+http://45.176.193.20:7837/play/a06h
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Edge HD
+http://45.176.193.20:7837/play/a02y
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Clover HD
+http://190.131.247.82:8000/play/a0jo
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", UNIVERSAL CINEMA
+http://190.61.102.67:8000/play/a05f
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINEMA", CINEMA DC
+http://45.176.193.20:7837/play/a06z
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Starz
+http://192.99.70.160:25461/john/1234/91304
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="CINE", SONY CINE
+http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/77140
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="INFANTILES", Robotech
+http://hidra.live:80/xszuapuf/32W2Xuk4th/35494
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="INFANTILES", Sailor Moon
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50636
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="INFANTILES", Disney Live Action
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50595
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="INFANTILES", Disney Princess
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50596
+
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="CINEMA", Cinema Accion Classics
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50572
+
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="CINEMA", Cinema Ciencia Ficcion
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50573
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="CINEMA", Cinema Comedia
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50575
+
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="CINEMA", Cinema DC Comics
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50576
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="CINEMA", Cinema DC Universe
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50577
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="CINEMA", Disney Family
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50578
+
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="CINEMA", Cinema Disney Pixar
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50579
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="CINEMA", Cinema Dreamworks
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50580
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="CINEMA", Cinema Familia
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50581
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="CINEMA", Cinema Happy Madison
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50582
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="CINEMA", Cinema Lego
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50584
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="CINEMA", Cinema Marvel Animation
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50585
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="CINEMA", Cinema Marvel 3
+http://hidra.live:80/xszuapuf/32W2Xuk4th/50586
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="CINEMA", Cinema Marvel 1
+http://hidra.live:80/xszuapuf/32W2Xuk4th/58067
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="CINEMA", Cinema Marvel 2
+http://hidra.live:80/xszuapuf/32W2Xuk4th/58068
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="CINEMA", Cinema Anime
+http://hidra.live:80/xszuapuf/32W2Xuk4th/58069
+
+
