@@ -215,9 +215,6 @@ http://192.99.70.160:25461/john/1234/91304
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="CINE", SONY CINE
 http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/77140
 
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/eabe6890ee1d6de7f3b7e8e946577b59.gif" group-title="NACIONALES", EVENTOS
-http://playhispano.org:25461/tv5full/ORuTvDJARP/89995
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", C9N
 http://181.78.27.190:5350/play/a022
 
@@ -244,9 +241,6 @@ http://181.78.27.190:5350/play/a01j
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", SNT
 http://181.78.27.190:5350/play/a03d
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online-218x150.png" group-title="NACIONALES", GEN TV
-http://playhispano.org:25461/tv5full/ORuTvDJARP/90918
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png" group-title="NACIONALES", PARAGUAY TV
 http://170.83.242.152:5350/play/a01o
