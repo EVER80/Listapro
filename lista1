@@ -479,3 +479,22 @@ http://ushtv.us:80/live/Cal/Cal/127579.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", TELEFUTURO HD
 http://ushtv.us:80/live/Cal/Cal/127583.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DEPORTES", DAZN F1
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/144288
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 1
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/163908
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 2
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/163909
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN 3
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/163910
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", Universal Comedy
+http://181.78.27.190:5350/play/a0kq
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", Universal Premiere
+http://181.78.27.190:5350/play/a0ko
+
