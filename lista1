@@ -236,7 +236,7 @@ http://181.78.27.190:5350/play/a00m
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", Telefuturo
 http://181.78.27.190:5350/play/a03e
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", Trece
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", EL TRECE
 http://181.78.27.190:5350/play/a01j
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", SNT
@@ -513,4 +513,5 @@ http://181.78.27.190:5350/play/a00v
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN CO
 http://181.78.27.190:5350/play/a023
 
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN PREMIUM HD
+http://ushtv.us:80/live/Cal/Cal/754094.ts
