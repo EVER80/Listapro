@@ -453,29 +453,4 @@ http://45.176.193.20:7837/play/a02g
 #EXTINF:-1 tvg-logo="https://i.paste.pics/5700114855145b35e03c4831c13238d5.png" group-title="INTERNACIONALES", Moni TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", C9N HD
-http://ushtv.us:80/live/Cal/Cal/127555.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", FARRA PLAY
-http://ushtv.us:80/live/Cal/Cal/127557.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", GEN TV HD
-http://ushtv.us:80/live/Cal/Cal/127559.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", LA TELE HD
-http://ushtv.us:80/live/Cal/Cal/127561.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", NPY HD
-http://ushtv.us:80/live/Cal/Cal/127566.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", PARAVISION HD
-http://ushtv.us:80/live/Cal/Cal/127571.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", EL TRECE HD
-http://ushtv.us:80/live/Cal/Cal/127576.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", SNT HD
-http://ushtv.us:80/live/Cal/Cal/127579.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", TELEFUTURO HD
-http://ushtv.us:80/live/Cal/Cal/127583.ts
