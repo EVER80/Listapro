@@ -112,7 +112,7 @@ https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvGLLC1b/vh1classics.png" group-title="MUSICA", VH1 CLASSICS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=28f910c0-ac73-11eb-b65f-3f0a35700532&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2ca9adf-1aa0-45dd-bb41-6a8fc0a3f5c9&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://neotelecomcr.com/Middleware/Android/Portal/img/canales/retromagico.png" group-title="INFANTILES", RETRO MAGICO
+#EXTINF:-1 tvg-logo="https://neotelecomcr.com/Middleware/Android/Portal/img/canales/retromagico.png" group-title="INFANTILES", MAGIC RETRO
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Nf70Ftzv/retrocartoons.png" group-title="INFANTILES", RETRO CARTOONS
@@ -169,7 +169,6 @@ http://200.60.7.43:8000/play/7/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH Movies
 http://200.60.7.43:8000/play/5/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES", TNT SPORTS ARG HD
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/132285
 
@@ -200,13 +199,10 @@ http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234329
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="DEPORTES", DIRECTV SPORTS
 http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Clover HD
-http://190.131.247.82:8000/play/a0jo
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", UNIVERSAL CINEMA
 http://190.61.102.67:8000/play/a05f
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINEMA DC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINEMA DC ANIMADO
 http://45.176.193.20:7837/play/a06z
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Starz
@@ -450,7 +446,7 @@ http://45.160.15.130:2909/play/218
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN EXTRA HD
 http://45.176.193.20:7837/play/a02g
 
-#EXTINF:-1 tvg-logo="https://i.paste.pics/5700114855145b35e03c4831c13238d5.png" group-title="INTERNACIONALES", Moni TV
+#EXTINF:-1 tvg-logo="https://i.paste.pics/5700114855145b35e03c4831c13238d5.png" group-title="SERIES", Moni TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", C9N HD
@@ -515,3 +511,56 @@ http://181.78.27.190:5350/play/a023
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN PREMIUM HD
 http://ushtv.us:80/live/Cal/Cal/754094.ts
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="CINE", GOLDEN HD
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/143710
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cnn_en_espanol-mediano.png" group-title="INTERNACIONALES", CNN ESPAÑOL
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/152957
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1506.png" group-title="CINE", SONY CINE HD
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/227783
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", LA ROSA DE GUADALUPE
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/168142
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", ROBOTECH
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/168103
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", EL CHAVO ANIMADO
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/168141
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", EL CHAVO DEL 8
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/168087
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", EL CHAPULÍN ANIMADO
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/168151
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", EL CHAPULÍN COLORADO
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/168095
+
+#EXTINF:-1 tvg-logo="http://www.marketdemedios.com/wp-content/uploads/2018/07/publicidad-cronica-tv-300x180.png" group-title="INTERNACIONALES", CRONICA TV HD
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/183129
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", SAILOR MOON SUPERS
+http://ushtv.us:80/live/Cal/Cal/761199.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", SAILOR MOON STARS
+http://ushtv.us:80/live/Cal/Cal/761200.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", CASO CERRADO 1
+http://ushtv.us:80/live/Cal/Cal/761041.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", CASO CERRADO 2
+http://ushtv.us:80/live/Cal/Cal/761043.ts
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="CINE", HBO MUNDI HD
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/223207
+
+#EXTINF:-1 tvg-logo="http://streamingprotv.com:8000/images/e14a5266ab2f1a65ef2d279bc9e084fa.png" group-title="CINE", HBO SIGNATURE HD
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/223206
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop-mediano.png" group-title="CINE", HBO POP HD
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/223209
+
+
