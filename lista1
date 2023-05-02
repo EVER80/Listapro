@@ -15,48 +15,14 @@ https://tvdatta.com:3839/live/nandutitvlive.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", SENADO TV
 https://59ce1298bfb98.streamlock.net/tvsenadopy/tvsenadopy/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", CANAL INFANTIL
-http://181.176.148.142:8000/play/a020
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", MOVIE MOTION
-http://181.176.148.142:8000/play/a02r
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", CARTOONS
-http://181.176.148.142:8000/play/a021
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", MOVIE KIDS
-http://181.176.148.142:8000/play/a01z
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE FAMILIAR
-http://181.176.148.142:8000/play/a023
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png" group-title="CINE", CINE CLUB
 https://servilive.com:3176/live/cineclublive.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE PREMIUM
-http://181.176.148.142:8000/play/a025
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MOVIES CLUB
-http://181.176.148.142:8000/play/a02s
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE HISPANO
-http://181.176.148.142:8000/play/a024
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", ITV
-http://181.176.148.142:8000/play/a02n
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="CINE", Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="DEPORTES", BEIN SPORTS XTRA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
-
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="DEPORTES", TUDN
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/2380
-
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/604.png" group-title="DEPORTES", ESPN PREMIUM
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/167481
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="MUSICA", VEVO 70'S
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
@@ -82,26 +48,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="MUSICA", VEVO REGGAETÓN & TRAP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", DHE
-http://181.176.148.142:8000/play/a027
-
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 1
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 2
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/605.png" group-title="DEPORTES", FOX SPORTS
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/2570
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_pop-mediano.png" group-title="CINE", HBO POP
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/139977
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_signature-mediano.png" group-title="CINE", HBO SIGNATURE
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/139980
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="CINE", HBO MUNDI
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/139959
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="NACIONALES", LIMTV
 https://live.limplay.ml/limtv.m3u8
@@ -148,30 +99,6 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/355ba171055dd0e6747131673432cc18.png" group-title="MUSICA", VClassicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", SONY MOVIES HD
-http://45.176.193.20:7837/play/a06m
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", PLANETATV MOVIES
-http://45.176.193.20:7837/play/a07f
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Viwix Estrenos
-http://45.176.193.20:7837/play/a06a
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Viwix Acción 
-http://45.176.193.20:7837/play/a068
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH Family
-http://200.60.7.43:8000/play/6/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", FMH Kids
-http://200.60.7.43:8000/play/7/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH Movies
-http://200.60.7.43:8000/play/5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="DEPORTES", TNT SPORTS ARG HD
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/132285
-
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/ABC-TV-Paraguay-en-vivo-Online.png" group-title="NACIONALES", ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
@@ -193,23 +120,11 @@ http://200.41.79.165:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Win Sports+ HD
 http://200.41.79.165:8000/play/a0js/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1613.png" group-title="DEPORTES", DIRECTV SPORTS +
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234329
-
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="DEPORTES", DIRECTV SPORTS
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", UNIVERSAL CINEMA
 http://190.61.102.67:8000/play/a05f
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINEMA DC ANIMADO
-http://45.176.193.20:7837/play/a06z
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Starz
 http://192.99.70.160:25461/john/1234/91304
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="CINE", SONY CINE
-http://coresys.dvrdns.org:8080/Paulino/gD3tucXBkCAb/77140
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", C9N
 http://181.78.27.190:5350/play/a022
@@ -241,7 +156,6 @@ http://181.78.27.190:5350/play/a03d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png" group-title="NACIONALES", PARAGUAY TV
 http://170.83.242.152:5350/play/a01o
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden Plus HD
 http://45.176.193.20:7837/play/a02s
 
@@ -256,192 +170,6 @@ http://45.176.193.20:7837/play/a02y
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Golden HD
 http://45.176.193.20:7837/play/a09j
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Dos Kids HD
-http://45.160.15.130:2909/play/002
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", BabyFirst
-http://45.160.15.130:2909/play/008
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Discovery Kids HD
-http://45.160.15.130:2909/play/005
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Disney Junior
-http://45.160.15.130:2909/play/006
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Cartoon Network HD
-http://45.160.15.130:2909/play/009
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Disney HD
-http://45.160.15.130:2909/play/010
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Nick HD
-http://45.160.15.130:2909/play/014
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", Nick Jr
-http://45.160.15.130:2909/play/015
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO HD
-http://45.160.15.130:2909/play/017
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Family HD
-http://45.160.15.130:2909/play/018
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Plus
-http://45.160.15.130:2909/play/019
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO Xtreme HD
-http://45.160.15.130:2909/play/020
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", HBO 2 HD
-http://45.160.15.130:2909/play/021
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", Discovery Channel HD
-http://45.160.15.130:2909/play/024
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", Animal Planet HD
-http://45.160.15.130:2909/play/025
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", Nat Geo HD
-http://45.160.15.130:2909/play/027
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", History Channel HD
-http://45.160.15.130:2909/play/032
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", History 2 HD
-http://45.160.15.130:2909/play/033
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TVN HD
-http://45.160.15.130:2909/play/064
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", CHV HD
-http://45.160.15.130:2909/play/066
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", ID HD
-http://45.160.15.130:2909/play/079
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Warner Channel HD
-http://45.160.15.130:2909/play/081
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Star CHannel HD
-http://45.160.15.130:2909/play/083
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Sony HD
-http://45.160.15.130:2909/play/085
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", AXN HD
-http://45.160.15.130:2909/play/087
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", Universal TV HD
-http://45.160.15.130:2909/play/088
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FX HD
-http://45.160.15.130:2909/play/093
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Studio Universal HD
-http://45.160.15.130:2909/play/098
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Paramount HD
-http://45.160.15.130:2909/play/099
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", SyFy
-http://45.160.15.130:2909/play/101
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", A&E HD
-http://45.160.15.130:2909/play/102
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cinecanal HD
-http://45.160.15.130:2909/play/107
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", TNT Series HD
-http://45.160.15.130:2909/play/108
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TNT HD
-http://45.160.15.130:2909/play/109
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", TCM
-http://45.160.15.130:2909/play/110
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Cinemax HD
-http://45.160.15.130:2909/play/112
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", I-Sat
-http://45.160.15.130:2909/play/116
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", Space HD
-http://45.160.15.130:2909/play/119
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MX Family HD
-http://45.160.15.130:2909/play/120
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MX Classic HD
-http://45.160.15.130:2909/play/121
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MX Prime HD
-http://45.160.15.130:2909/play/122
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MX Old HD
-http://45.160.15.130:2909/play/123
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", MTV HD
-http://45.160.15.130:2909/play/132
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", Old Music HD
-http://45.160.15.130:2909/play/137
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", Zoomback HD
-http://45.160.15.130:2909/play/138
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", Telemundo
-http://45.160.15.130:2909/play/149
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES", Pasiones
-http://45.160.15.130:2909/play/150
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", Las Estrellas HD
-http://45.160.15.130:2909/play/151
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TVE
-http://45.160.15.130:2909/play/153
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", Discovery H&H HD
-http://45.160.15.130:2909/play/171
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", TLC
-http://45.160.15.130:2909/play/172
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", E Entertainment HD
-http://45.160.15.130:2909/play/174
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", El Gourmet HD
-http://45.160.15.130:2909/play/177
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", On Tour Channel HD
-http://45.160.15.130:2909/play/179
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTALES", Discovery Turbo V+
-http://45.160.15.130:2909/play/207
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Fox Sports 1 HD
-http://45.160.15.130:2909/play/209
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Fox Sports 2 HD
-http://45.160.15.130:2909/play/210
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Fox Sports 3 HD
-http://45.160.15.130:2909/play/211
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN HD
-http://45.160.15.130:2909/play/212
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 2 HD
-http://45.160.15.130:2909/play/214
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 3 HD
-http://45.160.15.130:2909/play/216
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 4 HD
-http://45.160.15.130:2909/play/218
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN EXTRA HD
 http://45.176.193.20:7837/play/a02g
